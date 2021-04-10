@@ -51,7 +51,6 @@ public class Phone {
 			System.out.println("Excellent");
 		}
 		
-		
 		void caltotalPrice() {
 			System.out.println("\n-TOTAL PRICE-");
 			System.out.println("Enter Price: ");
